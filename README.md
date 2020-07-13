@@ -1,2 +1,2 @@
-# scaffolding-webpack-project
-A simple scaffolding for webpack based projects
+# Photography gallery scroll
+A simple project to practice CSS/Vanilla (Part 6)
